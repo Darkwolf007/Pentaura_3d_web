@@ -16,7 +16,7 @@ async function setupViewer() {
 
   // Load a 3d model.
   await manager.addFromPath(
-    "./asset/scene.glb"
+    "./asset/shing.glb"
   );
 
   const exploreView = document.querySelector(".explore");
